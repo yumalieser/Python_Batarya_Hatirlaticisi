@@ -1,0 +1,1 @@
+# Python_Batarya_Hatirlaticisi
